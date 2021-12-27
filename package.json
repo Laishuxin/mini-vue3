@@ -6,7 +6,8 @@
   "author": "Laishuxin <laishuxin170@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "husky": ">=6",
